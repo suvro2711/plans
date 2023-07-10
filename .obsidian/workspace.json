@@ -11,30 +11,38 @@
             "id": "b809136bd8130c60",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Life.canvas",
-                "viewState": {
-                  "x": -133,
-                  "y": -410,
-                  "zoom": -0.3185690827974478
-                }
-              }
-            }
-          },
-          {
-            "id": "3c75313638c48719",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Learn Blockchain.md",
+                "file": "Career/Career Plans.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "22f41b37d04629ba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "25f43ff71bac3fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career/Techs/Learn Blockchain.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life.canvas",
+                "file": "Career/Techs/Learn Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life.canvas",
+                "file": "Career/Techs/Learn Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life.canvas"
+                "file": "Career/Techs/Learn Blockchain.md"
               }
             }
           }
@@ -161,15 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1a7c462d6ae44c3",
+  "active": "25f43ff71bac3fea",
   "lastOpenFiles": [
-    "Career/Learn Blockchain.md",
+    "().md",
+    "Career/Techs/Learn Blockchain.md",
+    "Career/Techs/Learn Tech.md",
+    "Career/Techs/Learn Flutter.md",
     "Life Plan.md",
+    "Career/Career Plans.md",
+    "Health Plan.md",
+    "Career/Techs",
+    "Life.canvas",
     "Untitled.md",
     "Career",
     "Untitled.canvas",
     "Life Plan",
-    "Untitled 1.canvas",
-    "Life.canvas"
+    "Untitled 1.canvas"
   ]
 }
