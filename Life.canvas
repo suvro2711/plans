@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e778aea1dae9f59a","x":-420,"y":-800,"width":400,"height":400,"type":"file","file":"Life Plan.md"},
+		{"type":"text","text":"Personal","id":"2f2b24281f79b4d0","x":-96,"y":-80,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Career","id":"2bad453ec038fb40","x":-96,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1b6bedc208b4dc3c","fromNode":"2f2b24281f79b4d0","fromSide":"top","toNode":"2bad453ec038fb40","toSide":"bottom"},
+		{"id":"22484c7650b61bf9","fromNode":"2bad453ec038fb40","fromSide":"top","toNode":"e778aea1dae9f59a","toSide":"bottom"}
+	]
+}
