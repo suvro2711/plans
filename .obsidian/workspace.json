@@ -13,20 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Career Plans.md",
+                "file": "Life Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "22f41b37d04629ba",
+            "id": "7b5693092e1fc60e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
@@ -35,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Techs/Learn Blockchain.md",
+                "file": "Life Plan.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/Techs/Learn Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/Techs/Learn Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Career/Techs/Learn Blockchain.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,17 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25f43ff71bac3fea",
+  "active": "7b5693092e1fc60e",
   "lastOpenFiles": [
-    "().md",
-    "Career/Techs/Learn Blockchain.md",
-    "Career/Techs/Learn Tech.md",
-    "Career/Techs/Learn Flutter.md",
+    "Personal Ventures/Personal Ventures.md",
+    "Personal Ventures",
     "Life Plan.md",
     "Career/Career Plans.md",
-    "Health Plan.md",
-    "Career/Techs",
     "Life.canvas",
+    "Career/Techs/Learn Blockchain.md",
+    "Health",
+    "Career/Techs/Learn Tech.md",
+    "Career/Techs/Learn Flutter.md",
+    "().md",
+    "Health/Health Plan.md",
+    "Career/Techs",
     "Untitled.md",
     "Career",
     "Untitled.canvas",
