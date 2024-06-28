@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "303ec4e92fcc857b",
+        "id": "a90ab709273e3dd4",
         "type": "tabs",
         "children": [
           {
-            "id": "b809136bd8130c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b5693092e1fc60e",
+            "id": "8dbb934c4623f6f3",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "25f43ff71bac3fea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infrastrure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,19 +137,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b5693092e1fc60e",
+  "active": "8dbb934c4623f6f3",
   "lastOpenFiles": [
     "Personal Ventures/Personal Ventures.md",
-    "Personal Ventures",
+    "Books/Books.md",
     "Life Plan.md",
     "Career/Career Plans.md",
-    "Life.canvas",
-    "Career/Techs/Learn Blockchain.md",
-    "Health",
+    "Create Resume.md",
     "Career/Techs/Learn Tech.md",
+    "Career/Techs/BlockChain/Blockchain.md",
+    "Blockchain Books.md",
+    "The Sovereign individual.md",
+    "Blockchain_Books.md",
+    "2024-06-28.md",
+    "Learn Japanese.md",
+    "Career/Techs/BlockChain/Investments.md",
+    "Books",
+    "Health/Medical Interventions.md",
+    "Career/Techs/BlockChain",
+    "Health/Health Plan.md",
+    "Personal Ventures",
+    "Life.canvas",
+    "Health",
     "Career/Techs/Learn Flutter.md",
     "().md",
-    "Health/Health Plan.md",
     "Career/Techs",
     "Untitled.md",
     "Career",

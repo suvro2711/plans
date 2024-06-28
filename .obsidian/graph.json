@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Health",
+      "color": {
+        "a": 1,
+        "rgb": 65369
+      }
+    },
+    {
+      "query": "path:Career",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "path:\"Personal Ventures\"",
+      "color": {
+        "a": 1,
+        "rgb": 12318023
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.28513513513514,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.93877338877339,
+  "lineSizeMultiplier": 2.93711018711019,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "centerStrength": 0.533264033264033,
+  "repelStrength": 9.91683991683992,
+  "linkStrength": 0.470893970893971,
   "linkDistance": 30,
-  "scale": 0.4296780914342522,
+  "scale": 1.0000000000000016,
   "close": true
 }
